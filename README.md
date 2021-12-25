@@ -1,29 +1,45 @@
-# 🐵 Hello, I am Sir Monke 🐵
-- ⚙️ I'm currently working on:
-  - Nothing
-- 📖 I'm learning:
-  - JavaScript
-  - More HTML & CSS
-- Pronouns:
-  - He/Him
-- How to reach me:
-  - Discord: Sir Monke#3391
-  - Steam: [Sir Monke](https://steamcommunity.com/profiles/76561198333556430/)
-- Fun Fact:
-  - I'm both a Yeti and a Monke
+<img src="SirMonke-Test.png" width="256" height="256" style="margin-left:35%;box-shadow:0 0 20px 5px black">
 
----
+<h1>🐵 Hello, I am <strong>Sir Monke</strong> 🐵</h1>
 
-# Games I Play
-- Team Fortress 2
-  - Blackwonder ZS US
-  - Blackwonder Dodgeball
-  - Other...
-- Garry's Mod
-- Don't Starve Together
-- I Wanna Maker
-- Noita
-- Bloons TD Battle 2
-- Terraria
+<ul>
+ <li>⚙️ I'm currently working on:</li>
+    <ul><li>Nothing</li></ul>
+ <li>📖 I'm learning:</li>
+    <ul>
+        <li>JavaScript</li>
+        <li>Java</li>
+        <li>Python</li>
+        <li>More HTML & CSS</li>
+    </ul>
+ <li>Pronouns:</li>
+    <ul><li>He/Him</li></ul>
+ <li>How to reach me:</li>
+    <ul>
+        <li>Discord: Sir Monke#3391</li>
+        <li><a href="https://steamcommunity.com/profiles/76561198333556430/">Steam: Sir Monke</a></li>
+    </ul>
+ <li>Fun Fact:</li>
+    <ul><li>I'm both a Yeti and a Monke</li></ul>
+</ul>
 
----
+<hr>
+
+<h1>Games I Play</h1>
+
+<ul>
+    <li>Team Fortress 2</li>
+        <ul>
+            <li>Blackwonder ZS US</li>
+            <li>Blackwonder Dodgeball</li>
+            <li>Other...</li>
+        </ul>
+    <li>Garry's Mod</li>
+    <li>Don't Starve Together</li>
+    <li>I Wanna Maker</li>
+    <li>Noita</li>
+    <li>Bloons TD Battle 2</li>
+    <li>Terraria</li>
+</ul>
+
+<hr>
