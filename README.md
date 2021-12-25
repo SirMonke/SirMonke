@@ -1,4 +1,5 @@
 <h1 align="center">🐵 Hello, I am Sir Monke 🐵<h1>
+---
 - ⚙️ I'm currently working on:
   - Nothing
 - 📖 I'm learning:
