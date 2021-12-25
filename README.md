@@ -1,4 +1,4 @@
-#🐵 Hello, I am Sir Monke 🐵
+# 🐵 Hello, I am Sir Monke 🐵
 - ⚙️ I'm currently working on:
   - Nothing
 - 📖 I'm learning:
