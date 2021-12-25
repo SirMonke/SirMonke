@@ -1,4 +1,4 @@
-<img src="SirMonke-Test.png" width="256" height="256" style="margin-left:35%;box-shadow:0 0 20px 5px black">
+<img src="SirMonke-Test.png" width="256" height="256" align="center">
 
 <h1>🐵 Hello, I am <strong>Sir Monke</strong> 🐵</h1>
 
