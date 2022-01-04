@@ -24,22 +24,3 @@
 </ul>
 
 <hr>
-
-<h1>Games I Play</h1>
-
-<ul>
-    <li>Team Fortress 2</li>
-        <ul>
-            <li>Blackwonder ZS US</li>
-            <li>Blackwonder Dodgeball</li>
-            <li>Other...</li>
-        </ul>
-    <li>Garry's Mod</li>
-    <li>Don't Starve Together</li>
-    <li>I Wanna Maker</li>
-    <li>Noita</li>
-    <li>Bloons TD Battle 2</li>
-    <li>Terraria</li>
-</ul>
-
-<hr>
