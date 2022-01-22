@@ -12,9 +12,9 @@
         <li>Python</li>
         <li>More HTML & CSS</li>
     </ul>
- <li>Pronouns:</li>
+ <li>♂️ Pronouns:</li>
     <ul><li>He/Him</li></ul>
- <li>How to reach me:</li>
+ <li>📨 How to reach me:</li>
     <ul>
         <li>Discord: Sir Monke#3391</li>
         <li><a href="https://steamcommunity.com/profiles/76561198333556430/">Steam: Sir Monke</a></li>
