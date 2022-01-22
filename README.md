@@ -19,7 +19,7 @@
         <li>Discord: Sir Monke#3391</li>
         <li><a href="https://steamcommunity.com/profiles/76561198333556430/">Steam: Sir Monke</a></li>
     </ul>
- <li>Fun Fact:</li>
+ <li>🙂 Fun Fact:</li>
     <ul><li>I'm both a Yeti and a Monke</li></ul>
 </ul>
 
