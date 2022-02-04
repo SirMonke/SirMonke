@@ -14,7 +14,7 @@
 
 <h2>📨 <strong>How to reach me</strong></h2>
 <img style="margin: 10px 0 25px 10px" alt="Discord" src="https://img.shields.io/badge/Discord-Sir_Monke_3391-blueviolet?logo=discord&logoColor=white&style=for-the-badge&logoWidth=30">
-<a href="https://steamcommunity.com/profiles/76561198333556430/"><img style="margin: 10px 0 25px 10px" alt="Steam" src="https://img.shields.io/badge/Steam-Sir_Monke-navy?logo=steam&logoColor=white&style=for-the-badge&logoWidth=30"></a>
+<a href="https://steamcommunity.com/profiles/76561198333556430/" target="_blank"><img style="margin: 10px 0 25px 10px" alt="Steam" src="https://img.shields.io/badge/Steam-Sir_Monke-navy?logo=steam&logoColor=white&style=for-the-badge&logoWidth=30"></a>
 
 <h2>💡 <strong>Fun Fact</strong></h2>
 <p style="margin: 10px 0 25px 10px; font-size: 16px">• I'm both a Yeti and a Monke</p>
